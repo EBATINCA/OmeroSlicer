@@ -1,1 +1,1 @@
-# OmeroPluguinForSlicer
+# OmeroSlicer
