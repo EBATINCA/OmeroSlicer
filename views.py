@@ -50,4 +50,4 @@ def index(request, conn=None, **kwargs):
     
 
     # Redirect the html template and return the http response
-    return redirect('http://192.168.1.79:6901/')
+    return redirect('http://172.20.0.4:6901/')
